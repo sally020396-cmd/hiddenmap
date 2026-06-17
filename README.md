@@ -58,6 +58,4 @@ Anyone can drop a pin, add a description, and help expand our collective map of 
 
 ---
 
-### 🛠️ 깃허브 올릴 때 팁 (Tip)
-1. 코드 중간의 `<img src="..." />` 부분에 방금 최종 완성된 **수직 반전 화살표 이미지**를 다운받아 프로젝트 폴더(예: `images/` 폴더)에 넣고 경로를 수정해 주세요. 
-2. 교수가 QR코드를 찍고 들어왔을 때, 이 페이지가 단순 '과제 제출용 문서'가 아니라 **"오 진짜 현장 사람들이 보고 행동을 바꾸게 유도하는 페이지구나"**라는 인상을 주도록 영어 기반의 깔끔한 톤으로 세팅했습니다!
+# SHARE THE HIDDEN PLACE IN KAIST!!
