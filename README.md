@@ -1,4 +1,4 @@
-# hiddenmap
+# HIDDENMAP
 # 🚪 The Hidden Oasis
 
 Welcome to the development documentation for Phase 2. In this stage, we fast-prototyped a spatial intervention designed to reroute pedestrian habits by shifting the flow of "hidden information" within the building.
@@ -41,6 +41,20 @@ If a visitor stands in front of the booth and scans the QR code on the physical 
 
 1. **The Reveal (X-Ray Vision):** It instantly solves the mystery of the sign by confirming exactly what is behind the wall, rewarding the user's curiosity with digital validation.
 2. **The Prompt:** It delivers a direct call-to-action: *"You have unlocked the secret of the 2nd floor. Grab a cold drink, skip the elevator, and take the stairs. Your choice changes the flow of this space."* ```
+
+---
+
+## 🗺️ Community Map: Register Your Hidden Place!
+
+Found another hidden vending machine, a quiet study nook, or a secret resting spot on campus? Don't keep it to yourself—share your own **"Hidden Oasis"** with the community! 
+
+Anyone can drop a pin, add a description, and help expand our collective map of invisible campus knowledge.
+
+<p align="center">
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1gUxiFwcGvmxfNFRjZW5kDI4l-yaICO8&ehbc=2E312F" width="640" height="480"></iframe>
+</p>
+
+* **How to contribute:** Open the map, click the "Add Marker" icon, drop it on your secret location, and name your Hidden Place!
 
 ---
 
