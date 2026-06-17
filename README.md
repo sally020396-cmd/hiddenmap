@@ -1,5 +1,5 @@
 # hiddenmap
-# 🚪 Phase 2: Protocol Development — The Hidden Oasis
+# 🚪 The Hidden Oasis
 
 Welcome to the development documentation for Phase 2. In this stage, we fast-prototyped a spatial intervention designed to reroute pedestrian habits by shifting the flow of "hidden information" within the building.
 
