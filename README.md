@@ -12,7 +12,7 @@ Behind the large white studio booth in the center of the 2nd floor sits a hidden
 To bridge this gap, we installed an intuitive visual marker—**"HIDDEN OASIS"**—directly onto the booth's front wall to spark curiosity and reveal this hidden space.
 
 <p align="center">
-  <img src="https://images.uncyclomedia.co/uncyclopedia/ko/thumb/b/b5/White_pixel.png/220px-White_pixel.png" width="80%" alt="Hidden Oasis Prototype Installation" />
+  <img src="https://images.oasis.png/220px-White_pixel.png" width="80%" alt="Hidden Oasis Prototype Installation" />
   <br>
   <em>Figure 1: Prototype installation on the studio booth wall, pointing traffic toward the hidden oasis behind it.</em>
 </p>
